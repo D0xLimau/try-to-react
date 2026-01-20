@@ -1,3 +1,6 @@
+![dont_know_how_to_react](https://danielk.tech/user/pages/01.home/52.angular-signal-inputs/react.gif?decoding=auto&fetchpriority=auto)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
